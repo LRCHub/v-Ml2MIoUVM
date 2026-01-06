@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Come My Way",
+  "base_artist": "Bene Baby",
+  "createdAt": "2026-01-06T05:16:17.257438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "R. Stevie Moore feat. Ariel Pink",
+      "has_synced": false,
+      "path": "select/01_Come_My_Way_R._Stevie_Moore_feat._Ariel_Pink.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Ariel Pink & R. Stevie Moore",
+      "has_synced": false,
+      "path": "select/02_Come_My_Way_Ariel_Pink_&_R._Stevie_Moore.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/03_Come_My_Way_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Will Love Ever Come My Way",
+      "artist": "Dion",
+      "has_synced": false,
+      "path": "select/04_Will_Love_Ever_Come_My_Way_Dion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Shocking Blue",
+      "has_synced": false,
+      "path": "select/05_Come_My_Way_Shocking_Blue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "PLVTINUM",
+      "has_synced": true,
+      "path": "select/06_Come_My_Way_PLVTINUM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Delv!s",
+      "has_synced": true,
+      "path": "select/07_Come_My_Way_Delv!s.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come My Way (feat. Krayzie Bone)",
+      "artist": "Saba feat. Krayzie Bone",
+      "has_synced": true,
+      "path": "select/08_Come_My_Way_(feat._Krayzie_Bone)_Saba_feat._Krayzie_Bone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Saba feat. Krayzie Bone",
+      "has_synced": true,
+      "path": "select/09_Come_My_Way_Saba_feat._Krayzie_Bone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Abhi The Nomad feat. Louis Futon",
+      "has_synced": false,
+      "path": "select/10_Come_My_Way_Abhi_The_Nomad_feat._Louis_Futon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come My Way Explicit",
+      "artist": "Abhi the Nomad",
+      "has_synced": false,
+      "path": "select/11_Come_My_Way_Explicit_Abhi_the_Nomad.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Josh Makazo",
+      "has_synced": false,
+      "path": "select/12_Come_My_Way_Josh_Makazo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Josh Makazo",
+      "has_synced": true,
+      "path": "select/13_Come_My_Way_Josh_Makazo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Has Finally Come My Way",
+      "artist": "Faron Young",
+      "has_synced": false,
+      "path": "select/14_Love_Has_Finally_Come_My_Way_Faron_Young.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "JLV feat. Jawedsway & Jerry Island",
+      "has_synced": true,
+      "path": "select/15_Come_My_Way_JLV_feat._Jawedsway_&_Jerry_Island.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "JLV",
+      "has_synced": true,
+      "path": "select/16_Come_My_Way_JLV.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come My Way",
+      "artist": "Disciple",
+      "has_synced": true,
+      "path": "select/17_Come_My_Way_Disciple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come My Way (feat. 百足)",
+      "artist": "Bene Baby",
+      "has_synced": false,
+      "path": "select/pl_01_Come_My_Way_(feat._百足)_Bene_Baby.txt"
+    }
+  ]
+}
