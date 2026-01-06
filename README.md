@@ -1,0 +1,102 @@
+# Bene Baby – Come My Way
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Bene Baby
+Baby come my way
+俺の腰元にずっといて
+また夜から朝までOne love one
+元彼とか元カノ散々じゃん
+だから俺たち踊るぜParty
+More time more many and Bad Bitch
+俺たちまるでFerrari
+More xan more pill and Gang Bitch
+踊るぜOne Love
+Only need you
+踊るぜOne Love
+俺に移住
+踊るぜOne Love
+Only need you
+踊るぜOne Love
+俺に移住
+踊るぜOne Love
+落とすの簡単
+俺らは大胆
+簡単な災難
+俺は最低 君は最高
+高い会計 払うiPhone
+全部内緒今日も内緒
+お尻とお口が軽めはNo
+美人なら自信が高くていいじゃんか
+地震みたいなFuck Like That
+Baby come my way
+他の男たち嫉妬してる
+けど俺の物だからほっといて
+お酒頼むから待っといて
+Henny  ゼニー　baby 達はdream
+手に尻美人ならばchip
+Wave  syeki　機敏な動き
+眺め　肌ける　feeling  now
+終電ないし　なんだこのタイミング
+呼んでるタクシー　俺ら朝帰り
+運命なんて　感じていないし
+けど君以外の女はいまいち
+BitchのHip叩いてるvip
+ヒッピーな日よりもRichの道
+縦並ぶ物の中で生きる
+In the Building
+In the Building
+Baby come my way
+俺の腰元にずっといて
+また夜から朝までone love one
+元彼とか元カノ散々じゃん
+だから俺たち踊るぜparty
+More time more many and Bad Bitch
+俺たちまるでFerrari
+More xan more pill and Gang Bitch
+踊るぜone love
+Only need you
+踊るぜone love
+俺に移住
+踊るぜone love
+Only need you
+踊るぜone love
+俺に移住
+連れの借りもんトラックで走るHighway
+ストーリーに君が載せてたクラブへ
+余裕なフリしながらまずプランA
+酒で乾杯踊ろうよフロアで
+セックスしか興味ないダサい男ばっかり
+それ見て君はしてるガッカリ
+早く君は俺の曲歌いたい
+今日の演者でもないのにやっぱり
+そりゃそう
+俺服装もオシャレ
+曲聞いてるだけ
+でも絵になるんだぜ
+韻を踏んで歌詞を書く
+君いうダジャレ
+でもコッソリ言ってるらしい
+イケてる彼
+すぐ無くなってくmoney
+でもこれも君のため
+明日には曲作るぜ
+君との事を綴って
+踊るぜone love
+Only need you
+酒まだ足んないし
+飲みに行く
+踊るぜone love
+Only need you
+他じゃもの足んないなら
+こっちに来なBaby come my way
+Baby come my way
+俺の腰元にずっといて
+また夜から朝までone love one
+元彼とか元カノ散々じゃん
+だから俺たち踊るぜparty
+More time more many and Bad Bitch
+俺たちまるでFerrari
+More xan more pill and Gang Bitch
+```
